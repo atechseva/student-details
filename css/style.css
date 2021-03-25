@@ -1,0 +1,29 @@
+.myForm{
+    background-color: rgb(103 204 11 / 63%)  !important;
+    padding: 15px !important;
+border-radius: 15px !important;
+color: white;
+
+}
+
+input{
+    border-radius:0 15px 15px 0 !important;
+
+}
+input:focus{
+    outline: none;
+box-shadow:none !important;
+border:1px solid #ccc !important;
+
+}
+
+.br-15{
+    border-radius: 15px 0 0 15px !important;
+}
+
+    
+.submit_btn{
+    border-radius: 15px !important;
+ background-color: #e7b204 !important;
+ border: 0 !important;
+}
